@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! My name is Ryan Davis
+## and I'm a recent Indiana Univerity Bloomington Graduate with a B.A. in Computer Science
+## Check out some of my school projects videos below, or look at my newer progress public repositories as I work more with JavaScript and C.
+## Don't hesitate to email me with questions about me, the repos, or the video showcases.
 
 <!--
 **ComicalSansMS/ComicalSansMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
