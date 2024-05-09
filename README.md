@@ -1,28 +1,26 @@
-# Hello! My name is Ryan Davis
-and I'm a recent Indiana Univerity Bloomington Graduate with a B.A. in Computer Science
-## Check out some of my school projects videos below,
-[![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://www.youtube.com/embed/7OtFnemLvNQ?si=CfP-4qhHCuVV9Bea)
-
-[![Seam Carver](https://img.youtube.com/y6dVWXbnfBU/maxresdefault.jpg)](https://www.youtube.com/embed/y6dVWXbnfBU?si=fS75TWleyO8MxKAu)
-
-[![Sudoku Solver](https://img.youtube.com/vi/yBOC6zRX7wk/maxresdefault,jpg)](https://www.youtube.com/embed/yBOC6zRX7wk?si=nLInOT1G9shnWidu)
 
 
+<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h3 align="center">A recent Computer Science graduate from Indiana University Bloomington IN</h3>
 
-Or look at my newer public repositories as I work more with [JavaScript](https://github.com/ComicalSansMS/Google-Earth-Engine-Brazil-NDFI-Analysis-Project) for Remote Sensing and C for systems programming.
-## Don't hesitate to email me with questions about me, the repos, or the video showcases.
+- 🔭 I’m currently working on **K&R C book and Oracle SQL**
 
-<!--
-**ComicalSansMS/ComicalSansMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **More and More C**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **My School projects**
+-   [![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://www.youtube.com/embed/7OtFnemLvNQ?si=CfP-4qhHCuVV9Bea)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [![Seam Carver](https://img.youtube.com/y6dVWXbnfBU/maxresdefault.jpg)](https://www.youtube.com/embed/y6dVWXbnfBU?si=fS75TWleyO8MxKAu)
+
+- [![Sudoku Solver](https://img.youtube.com/vi/yBOC6zRX7wk/maxresdefault,jpg)](https://www.youtube.com/embed/yBOC6zRX7wk?si=nLInOT1G9shnWidu)
+
+- 📫 How to reach me: **ryandavisi@gmail.com** or on LinkedIn
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/savingpvpryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savingpvpryan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ryan-davis-ryaedavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryaedavi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
