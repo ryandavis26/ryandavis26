@@ -14,7 +14,7 @@
 
 - [![Sudoku Solver](https://img.youtube.com/vi/yBOC6zRX7wk/maxresdefault,jpg)](https://www.youtube.com/embed/yBOC6zRX7wk?si=nLInOT1G9shnWidu)
 
-- 📫 How to reach me: **ryandavisi@gmail.com** or on LinkedIn
+### 📫 Send me an email at **ryandavisim@gmail.com** or on LinkedIn/Twitter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
