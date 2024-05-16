@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A recent Computer Science graduate from Indiana University Bloomington IN</h3>
+<h3 align="center">A recent Computer Science graduate from Indiana University Bloomington, IN</h3>
 
-- 🔭 I’m currently working on **K&R C book and Oracle SQL**
+- 🔭 I’m currently working on **learning enough C to write my own small shell in Linux**
 
-- 🌱 I’m currently learning **More and More C**
+- 🌱 I’m currently learning **the K&R C book and Oracle SQL syntax.** Follow my progress [here](https://github.com/ComicalSansMS/K-R-exercises)
 
-- 💬 Ask me about **My School projects**
+# 💬 Ask me about **my University projects**
 -   [![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://www.youtube.com/embed/7OtFnemLvNQ?si=CfP-4qhHCuVV9Bea)
 
 - [![Seam Carver](https://img.youtube.com/y6dVWXbnfBU/maxresdefault.jpg)](https://www.youtube.com/embed/y6dVWXbnfBU?si=fS75TWleyO8MxKAu)
