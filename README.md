@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A recent Computer Science graduate from Indiana University Bloomington, IN</h3>
 
-- 🔭 I’m currently working on **Creating some new python projects to help me learn more about SQL in an indusrty setting**
+- 🔭 I’m currently working on **creating some new python projects to help me learn more about SQL in an indusrty setting**
 
 - 🌱 I’m currently learning **MySQL syntax course from Stanford** Follow my progress [here]()
 
