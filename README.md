@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A recent Computer Science graduate from Indiana University Bloomington, IN</h3>
 
-- 🔭 I’m currently working on **learning enough C to write my own small shell in Linux**
+- 🔭 I’m currently working on **Creating some new python projects to help me learn more about SQL in an indusrty setting**
 
-- 🌱 I’m currently learning **the K&R C book and Oracle SQL syntax.** Follow my progress [here](https://github.com/ComicalSansMS/K-R-exercises)
+- 🌱 I’m currently learning **MySQL syntax course from Stanford** Follow my progress [here]()
 
 # 💬 Ask me about **my University projects**
 -   [![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://www.youtube.com/embed/7OtFnemLvNQ?si=CfP-4qhHCuVV9Bea)
