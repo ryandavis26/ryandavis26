@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **MySQL syntax course from Stanford** Follow my progress [here]()
 
 # 💬 Ask me about **my University projects**
--   [![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://www.youtube.com/embed/7OtFnemLvNQ?si=CfP-4qhHCuVV9Bea)
+- [![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://youtu.be/iushWXrmKXc)
 
 - [![Seam Carver](https://img.youtube.com/y6dVWXbnfBU/maxresdefault.jpg)](https://www.youtube.com/embed/y6dVWXbnfBU?si=fS75TWleyO8MxKAu)
 
