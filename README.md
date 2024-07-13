@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A recent Computer Science graduate from Indiana University Bloomington, IN</h3>
 
-- 🔭 I’m currently working on **creating some new python projects to help me learn more about SQL in an industry setting**
-
-- 🌱 I’m currently learning **MySQL syntax course from Stanford** Follow my progress [here]()
+- 🔭 I’m currently working on **Learning the MERN Fullstack, so keep your eyes posted for a new JS Repo soon 👀**
 
 # 💬 Ask me about **my University projects**
 - [![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://youtu.be/iushWXrmKXc)
