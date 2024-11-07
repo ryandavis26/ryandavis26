@@ -1,18 +1,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A recent Computer Science graduate from Indiana University Bloomington, IN</h3>
+<h3 align="center">Fullstack Developer who loves learning about new tech stacks</h3>
 
-- 🔭 I’m currently working on **Learning the MERN Fullstack, so keep your eyes posted for a new JS Repo soon 👀**
+- **I love building website backends with Java Spring, FastAPI/Python and Node**
+- **I have a wide variety of experience in OOP languages and Functional Languages**
+- **I graduated from IU Bloomington with a CS Degree, and I really enjoyed learning about programming language design**
+  
+<h2>💬 Want to see some complicated desktop projects or listen to me talk about a super compact Turing Complete DSL?</h2> 
+<h2>Click to see some of my favorite projects</h2>
+<a href="https://youtu.be/iushWXrmKXc" target="_blank"> <img src="https://github.com/ryandavis26/ryandavis26/blob/main/racket%20to%20c%20thumbnail.JPG" width=500 height=200 style="margin: 10px;"> </a>
+<a href="https://www.youtube.com/embed/y6dVWXbnfBU?si=fS75TWleyO8MxKAu" target="_blank"> <img src="https://github.com/ryandavis26/ryandavis26/blob/main/seam%20carver.JPG" width=500 height=200 style="margin: 10px;"> </a>
+<div style="margin: 100px;"></div>
+<a href="https://www.youtube.com/embed/yBOC6zRX7wk?si=nLInOT1G9shnWidu" target="_blank"> <img src="https://github.com/ryandavis26/ryandavis26/blob/main/Sudoku%20Solver%20Thumbnail.JPG" width=500 height=200 style="margin: 10px;"> </a>
+<div style="margin: 100px;"></div>
 
-# 💬 Ask me about **my University projects**
-- [![Scheme and C Interpreter](https://img.youtube.com/7OtFnemLvNQ/maxresdefault.jpg)](https://youtu.be/iushWXrmKXc)
-
-- [![Seam Carver](https://img.youtube.com/y6dVWXbnfBU/maxresdefault.jpg)](https://www.youtube.com/embed/y6dVWXbnfBU?si=fS75TWleyO8MxKAu)
-
-- [![Sudoku Solver](https://img.youtube.com/vi/yBOC6zRX7wk/maxresdefault,jpg)](https://www.youtube.com/embed/yBOC6zRX7wk?si=nLInOT1G9shnWidu)
-
-### 📫 Send me an email at **ryandavisim@gmail.com** or on LinkedIn/Twitter
+### 📫 Want to get in touch? Send me an email at **ryandavisim@gmail.com** or a DM on LinkedIn/Twitter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
